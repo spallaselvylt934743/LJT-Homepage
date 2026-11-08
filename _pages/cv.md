@@ -20,13 +20,16 @@ Research Experience
 * June 2024 - September 2024: Research Intern, Tencent WXG (Supervisor: Zifei Shan)
 * June 2023 - December 2023: Research Intern, Shanghai AI Lab (Supervisor: Prof. Yu Cheng)
 
+Research Interests
+======
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM truthfulness and Interpretability
+
 Skills
 ======
 * Natural Language Processing
 * Machine Learning
-* LLM Reasoning and Reinforcement Learning
-* Hallucination in Vision-Language Models (VLM)
-* LLM truthfulness and Interpretability
 
 Publications
 ======

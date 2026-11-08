@@ -15,6 +15,11 @@ Research Interests
 - Hallucination in Vision-Language Models (VLM)
 - LLM truthfulness and Interpretability
 
+Skills
+======
+- Natural Language Processing
+- Machine Learning
+
 Academic Background
 ======
 - Ph.D. in Computer Science, Hong Kong University of Science and Technology (2024 - Present)
